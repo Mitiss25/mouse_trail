@@ -1,0 +1,19 @@
+body {
+  background: #1e1e1e;
+}
+
+svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  pointer-events: none;
+}
+
+path {
+  fill: none;
+  stroke-width: 40;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}/*# sourceMappingURL=style.css.map */
